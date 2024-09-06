@@ -4,7 +4,7 @@ Visualizing Coffee Sales using excel pivot table
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## PROJECT DESCRIPTION
-This work is aim to gain insight from coffee sales data. The dataset covers sales from 2019 to 2022. I created a dashboard which summaries core thing needs to be focused on. 
+This work is aim to gain insight from coffee sales data. The dataset covers sales from 2019 to 2022. I created a dashboard which summarizes core thing needs to be focused on. 
 
 ## FUNCTION USED 
 The data in csv (Comma Separated Value) form with three worksheets. They are "orders" , "customer" and "products". These worksheets have some common feature (columns) which can be shared to get new columns. The following are functions used in the project :-  
